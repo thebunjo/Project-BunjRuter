@@ -32,3 +32,11 @@ BunjRuter GUI Hacker ToolKIT
 # Text Formatter
 
 ![Text Formatter](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/02dfdc3d-d4e2-4906-b32d-7c2a2515036a)
+
+# Database Cracker
+
+![Ekran görüntüsü 2023-12-02 125038](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/ad86e0a5-38f1-42f0-8e1b-8a994c255da5)
+
+# Wordlist Creator
+
+![Ekran görüntüsü 2023-12-02 125256](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/7dd3aa75-65b0-47f1-a54a-5745cac9ba2e)
