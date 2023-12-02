@@ -7,6 +7,10 @@ BunjRuter GUI Hacker Toolkit
 - E-posta: bunjothe@gmail.com
 - Telegram: [thebunjo](https://t.me/thebunjo)
 
+# Notes:
+
+- This program will be constantly updated.
+- The program is currently in beta version.
 
 # Main Page
 
