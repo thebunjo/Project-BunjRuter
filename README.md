@@ -9,6 +9,7 @@ BunjRuter GUI Hacker Toolkit
 
 # Notes:
 
+- This program only can works in Windows systems.
 - This program will be constantly updated.
 - The program is currently in beta version.
 
