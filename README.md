@@ -1,2 +1,34 @@
 # Project-BunjRuter
 BunjRuter GUI Hacker ToolKIT
+
+# Main Page
+![Main Page](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/ba0fa5e3-5252-43d2-b059-a2b54a920fe6)
+
+# Hash Cracker
+
+![Hash Cracker](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/76e9a771-aaf6-49e0-8045-235071dbfb1a)
+
+# FTP Cracker
+
+![FTP Cracker](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/5be3bf60-7c2f-4303-b1a1-ae6da3151550)
+
+
+# Hash Scanner
+
+![Hash Scanner](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/858415ca-550c-4279-9a8d-9083a8bf4f84)
+
+# Hash Generator
+
+![Hash Generator](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/7eba2606-a74d-490a-81fb-0f53bf490622)
+
+# DNS Enum
+
+![DNS Enum](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/279bf08e-e855-4462-9d30-2736654b4c63)
+
+# SSH Cracker
+
+![SSH Cracker](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/fe981359-6330-498a-b57e-e4418d8786bc)
+
+# Text Formatter
+
+![Text Formatter](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/02dfdc3d-d4e2-4906-b32d-7c2a2515036a)
