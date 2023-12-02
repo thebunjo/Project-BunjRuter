@@ -53,7 +53,8 @@ BunjRuter GUI Hacker Toolkit
 
 ## SSH Cracker: Do a SSH login dict attack on target.
 
-![SSH Cracker](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/fe981359-6330-498a-b57e-e4418d8786bc)
+![Ekran görüntüsü 2023-12-02 140659](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/e8c5eddc-b7bd-45a2-b999-082caa1b060e)
+
 
 # Text Formatter
 
