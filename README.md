@@ -2,10 +2,11 @@
 BunjRuter GUI Hacker Toolkit
 
 # Contact me for the program: 
-  Instagram: thebunjo
-  Discord: thebunjo
-  Mail: bunjothe@gmail.com
-  Telegram: https://t.me/thebunjo
+- Instagram: [thebunjo](https://www.instagram.com/thebunjo)
+- Discord: thebunjo
+- E-posta: bunjothe@gmail.com
+- Telegram: [thebunjo](https://t.me/thebunjo)
+
 
 # Main Page
 
