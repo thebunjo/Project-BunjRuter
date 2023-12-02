@@ -2,6 +2,9 @@
 BunjRuter GUI Hacker ToolKIT
 
 # Main Page
+
+## Main Page: Homepage required to open tools.
+
 ![Main Page](https://github.com/thebunjo/Project-BunjRuter/assets/138582603/ba0fa5e3-5252-43d2-b059-a2b54a920fe6)
 
 # Hash Cracker
